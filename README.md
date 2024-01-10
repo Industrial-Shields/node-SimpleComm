@@ -11,7 +11,7 @@ SimpleComm NodeJS implementation
 ### Installation
 
 ```
-npm install github:IndustrialShields/node-simplecomm
+npm install github:Industrial-Shields/node-simplecomm
 ```
 
 ## Usage
