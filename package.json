@@ -1,13 +1,16 @@
 {
   "name": "simplecomm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Industrial Shields SimpleComm library for NodeJS",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/IndustrialShields/node-simplecomm.git"
+    "url": "git+https://github.com/Industrial-Shields/node-simplecomm.git"
   },
   "author": "Jordi Casals <jcg@industrialshields.com>",
-  "license": "LGPL-3.0"
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "simplecomm": "github:Industrial-Shields/node-simplecomm"
+  }
 }
